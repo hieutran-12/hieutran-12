@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tôi là [Tên của bạn]
+# 👋 HELLO! TÔI LÀ TRẦN MINH HIẾU
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -29,67 +29,66 @@ const developer = {
 
 ## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+</p>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<p align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+</p>
 
-### Backend
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+</p>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hieutran-12&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hieutran-12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieutran-12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy graph"  />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hieutran-12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</p>
 
 ## 💡 Dự án nổi bật
 
-<div align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/hieutran-12/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hieutran-12&repo=project-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/hieutran-12/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hieutran-12&repo=project-2&theme=tokyonight&hide_border=true" />
   </a>
-</div>
+</p>
 
 ## 🐍 GitHub Activity
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
-</div>
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hieutran-12/hieutran-12/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieutran-12&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
 ## 🤝 Kết nối với tôi
 
